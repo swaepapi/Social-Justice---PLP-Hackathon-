@@ -135,6 +135,10 @@ body {
   .col-sm-4 > span {
     font-size: 60px;
   }
+  .panel-body > img{
+    width: 300px;
+    height: auto;
+  }
   footer .glyphicon {
     font-size: 20px;
     margin-bottom: 20px;
